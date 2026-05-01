@@ -699,7 +699,7 @@ window.onload = function () {
         ui_info_positionY: 0,
         ui_info_align: "2",
         ui_info_position: "center-top",
-        ui_info_margin: 0.5,
+        ui_info_margin: 0.8,
         ui_info_font: "Master",
         ui_info_charSpacing: 10,
         ui_clock_24HourFormat: true,
