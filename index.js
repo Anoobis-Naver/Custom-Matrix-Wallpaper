@@ -616,7 +616,7 @@ window.onload = function () {
     var gui;
     var options = {
         ui_rain_matrixSpeed: 5,
-        ui_rain_speedVariance: 75,
+        ui_rain_speedVariance: 100,
         fpsInterval: calculateFpsInterval(5),
         ui_rain_trailLength: 0.75,
         trailLength: calculateTrailLength(0.75),
